@@ -1,0 +1,45 @@
+commit 1c477bbcf0c7255cc6717f383134b1397056fdf0
+Merge: b521029 5076d88
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 19:02:32 2026 -0700
+
+    added both fav food and movie
+
+commit 5076d883fabd10d1cf00d4d21485d64395ee1427
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 18:57:31 2026 -0700
+
+    added favorite movie
+
+commit b5210292f65ca7297fea407d285e7154b7ebf06e
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 18:54:54 2026 -0700
+
+    added favorite food
+
+commit a9c7db0e5c6e3088ef8aff7cc292b8a5481bcedb
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 18:47:17 2026 -0700
+
+    README txt
+
+commit f18c8fbdf04fefae1cda1fb07780376ee9a06cdc
+Merge: 1d2bfc0 ad8d8e5
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 18:36:32 2026 -0700
+
+    Merge pull request #1 from gonzjustin13/info-fill
+    
+    Filled blanks
+
+commit ad8d8e5129dc905133faaaf57d1e403377ddbe19
+Author: gonzjustin13 <gonzjustin13@gmail.com>
+Date:   Mon Sep 7 18:32:43 2026 -0700
+
+    Filled blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
